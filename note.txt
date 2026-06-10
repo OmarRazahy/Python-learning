@@ -1,0 +1,4 @@
+This is a note. (duh) 
+I am learning how to edit files in python.
+This is the first step of my journey to freelancing via python.
+this is an extra line added to the end of the file.
